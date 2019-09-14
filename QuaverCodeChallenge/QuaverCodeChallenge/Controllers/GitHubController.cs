@@ -5,7 +5,6 @@ using QuaverCodeChallenge.Servcies;
 
 namespace QuaverCodeChallenge.Controllers
 {
-    [Route("[controller]/[action]")]
     public class GitHubController : Controller
     {
         private readonly GitHubService _githubService;
@@ -14,12 +13,15 @@ namespace QuaverCodeChallenge.Controllers
             _githubService = githubService;
         }
 
+        [Route("")]
+        [Route("GitHub")]
+        [Route("GitHub/CodingChallenge")]
         public IActionResult CodingChallenge()
         {
             return View("~/Views/GitHubTopRepos.cshtml");
         }
 
-        [HttpGet]
+        [Route("StartPullingFromGithubAPI")]
         public IActionResult StartPullingFromGithubAPI()
         {
             bool listContainsDup = false;

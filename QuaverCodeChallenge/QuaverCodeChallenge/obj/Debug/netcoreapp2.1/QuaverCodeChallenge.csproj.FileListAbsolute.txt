@@ -73,7 +73,6 @@ C:\Users\shell\source\repos\Code-Test\QuaverCodeChallenge\QuaverCodeChallenge\bi
 C:\Users\shell\source\repos\Code-Test\QuaverCodeChallenge\QuaverCodeChallenge\bin\Debug\netcoreapp2.1\QuaverCodeChallenge.pdb
 C:\Users\shell\source\repos\Code-Test\QuaverCodeChallenge\QuaverCodeChallenge\bin\Debug\netcoreapp2.1\QuaverCodeChallenge.Views.dll
 C:\Users\shell\source\repos\Code-Test\QuaverCodeChallenge\QuaverCodeChallenge\bin\Debug\netcoreapp2.1\QuaverCodeChallenge.Views.pdb
-C:\Users\shell\source\repos\Code-Test\QuaverCodeChallenge\QuaverCodeChallenge\obj\Debug\netcoreapp2.1\QuaverCodeChallenge.csprojAssemblyReference.cache
 C:\Users\shell\source\repos\Code-Test\QuaverCodeChallenge\QuaverCodeChallenge\obj\Debug\netcoreapp2.1\QuaverCodeChallenge.csproj.CoreCompileInputs.cache
 C:\Users\shell\source\repos\Code-Test\QuaverCodeChallenge\QuaverCodeChallenge\obj\Debug\netcoreapp2.1\QuaverCodeChallenge.RazorAssemblyInfo.cache
 C:\Users\shell\source\repos\Code-Test\QuaverCodeChallenge\QuaverCodeChallenge\obj\Debug\netcoreapp2.1\QuaverCodeChallenge.RazorAssemblyInfo.cs
@@ -100,3 +99,4 @@ C:\Users\shell\source\repos\Code-Test\QuaverCodeChallenge\QuaverCodeChallenge\ob
 C:\Users\shell\source\repos\Code-Test\QuaverCodeChallenge\QuaverCodeChallenge\obj\Debug\netcoreapp2.1\QuaverCodeChallenge.dll
 C:\Users\shell\source\repos\Code-Test\QuaverCodeChallenge\QuaverCodeChallenge\obj\Debug\netcoreapp2.1\QuaverCodeChallenge.pdb
 C:\Users\shell\source\repos\Code-Test\QuaverCodeChallenge\QuaverCodeChallenge\obj\Debug\netcoreapp2.1\QuaverCodeChallenge.csproj.CopyComplete
+C:\Users\shell\source\repos\Code-Test\QuaverCodeChallenge\QuaverCodeChallenge\obj\Debug\netcoreapp2.1\QuaverCodeChallenge.csprojAssemblyReference.cache
