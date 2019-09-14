@@ -1,0 +1,102 @@
+C:\Users\Jerad Hobgood\source\repos\QuaverCodeChallenge\QuaverCodeChallenge\bin\Debug\netcoreapp2.1\QuaverCodeChallenge.deps.json
+C:\Users\Jerad Hobgood\source\repos\QuaverCodeChallenge\QuaverCodeChallenge\bin\Debug\netcoreapp2.1\QuaverCodeChallenge.runtimeconfig.json
+C:\Users\Jerad Hobgood\source\repos\QuaverCodeChallenge\QuaverCodeChallenge\bin\Debug\netcoreapp2.1\QuaverCodeChallenge.runtimeconfig.dev.json
+C:\Users\Jerad Hobgood\source\repos\QuaverCodeChallenge\QuaverCodeChallenge\bin\Debug\netcoreapp2.1\QuaverCodeChallenge.dll
+C:\Users\Jerad Hobgood\source\repos\QuaverCodeChallenge\QuaverCodeChallenge\obj\Debug\netcoreapp2.1\QuaverCodeChallenge.csprojAssemblyReference.cache
+C:\Users\Jerad Hobgood\source\repos\QuaverCodeChallenge\QuaverCodeChallenge\obj\Debug\netcoreapp2.1\QuaverCodeChallenge.csproj.CoreCompileInputs.cache
+C:\Users\Jerad Hobgood\source\repos\QuaverCodeChallenge\QuaverCodeChallenge\obj\Debug\netcoreapp2.1\QuaverCodeChallenge.RazorAssemblyInfo.cache
+C:\Users\Jerad Hobgood\source\repos\QuaverCodeChallenge\QuaverCodeChallenge\obj\Debug\netcoreapp2.1\QuaverCodeChallenge.RazorAssemblyInfo.cs
+C:\Users\Jerad Hobgood\source\repos\QuaverCodeChallenge\QuaverCodeChallenge\obj\Debug\netcoreapp2.1\QuaverCodeChallenge.AssemblyInfoInputs.cache
+C:\Users\Jerad Hobgood\source\repos\QuaverCodeChallenge\QuaverCodeChallenge\obj\Debug\netcoreapp2.1\QuaverCodeChallenge.AssemblyInfo.cs
+C:\Users\Jerad Hobgood\source\repos\QuaverCodeChallenge\QuaverCodeChallenge\obj\Debug\netcoreapp2.1\QuaverCodeChallenge.TagHelpers.input.cache
+C:\Users\Jerad Hobgood\source\repos\QuaverCodeChallenge\QuaverCodeChallenge\obj\Debug\netcoreapp2.1\QuaverCodeChallenge.TagHelpers.output.cache
+C:\Users\Jerad Hobgood\source\repos\QuaverCodeChallenge\QuaverCodeChallenge\obj\Debug\netcoreapp2.1\QuaverCodeChallenge.RazorCoreGenerate.cache
+C:\Users\Jerad Hobgood\source\repos\QuaverCodeChallenge\QuaverCodeChallenge\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+C:\Users\Jerad Hobgood\source\repos\QuaverCodeChallenge\QuaverCodeChallenge\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+C:\Users\Jerad Hobgood\source\repos\QuaverCodeChallenge\QuaverCodeChallenge\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\Jerad Hobgood\source\repos\QuaverCodeChallenge\QuaverCodeChallenge\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\Jerad Hobgood\source\repos\QuaverCodeChallenge\QuaverCodeChallenge\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\Jerad Hobgood\source\repos\QuaverCodeChallenge\QuaverCodeChallenge\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\Jerad Hobgood\source\repos\QuaverCodeChallenge\QuaverCodeChallenge\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\Jerad Hobgood\source\repos\QuaverCodeChallenge\QuaverCodeChallenge\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\Jerad Hobgood\source\repos\QuaverCodeChallenge\QuaverCodeChallenge\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\Jerad Hobgood\source\repos\QuaverCodeChallenge\QuaverCodeChallenge\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\Jerad Hobgood\source\repos\QuaverCodeChallenge\QuaverCodeChallenge\obj\Debug\netcoreapp2.1\QuaverCodeChallenge.RazorTargetAssemblyInfo.cache
+C:\Users\Jerad Hobgood\source\repos\QuaverCodeChallenge\QuaverCodeChallenge\obj\Debug\netcoreapp2.1\QuaverCodeChallenge.RazorTargetAssemblyInfo.cs
+C:\Users\Jerad Hobgood\source\repos\QuaverCodeChallenge\QuaverCodeChallenge\bin\Debug\netcoreapp2.1\QuaverCodeChallenge.pdb
+C:\Users\Jerad Hobgood\source\repos\QuaverCodeChallenge\QuaverCodeChallenge\bin\Debug\netcoreapp2.1\QuaverCodeChallenge.Views.dll
+C:\Users\Jerad Hobgood\source\repos\QuaverCodeChallenge\QuaverCodeChallenge\bin\Debug\netcoreapp2.1\QuaverCodeChallenge.Views.pdb
+C:\Users\Jerad Hobgood\source\repos\QuaverCodeChallenge\QuaverCodeChallenge\obj\Debug\netcoreapp2.1\QuaverCodeChallenge.Views.pdb
+C:\Users\Jerad Hobgood\source\repos\QuaverCodeChallenge\QuaverCodeChallenge\obj\Debug\netcoreapp2.1\QuaverCodeChallenge.dll
+C:\Users\Jerad Hobgood\source\repos\QuaverCodeChallenge\QuaverCodeChallenge\obj\Debug\netcoreapp2.1\QuaverCodeChallenge.pdb
+C:\Users\Jerad Hobgood\source\repos\QuaverCodeChallenge\QuaverCodeChallenge\obj\Debug\netcoreapp2.1\QuaverCodeChallenge.csproj.CopyComplete
+C:\Users\Jerad Hobgood\source\repos\QuaverCodeChallenge\QuaverCodeChallenge\obj\Debug\netcoreapp2.1\Razor\Views\GitHubTopRepos.g.cshtml.cs
+C:\Users\Jerad Hobgood\source\repos\QuaverCodeChallenge\QuaverCodeChallenge\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Confirm.g.cshtml.cs
+C:\Users\Jerad Hobgood\Desktop\QuaverCodingChallenge\New-Hire-Coding-Challenge\QuaverCodeChallenge\QuaverCodeChallenge\bin\Debug\netcoreapp2.1\QuaverCodeChallenge.deps.json
+C:\Users\Jerad Hobgood\Desktop\QuaverCodingChallenge\New-Hire-Coding-Challenge\QuaverCodeChallenge\QuaverCodeChallenge\bin\Debug\netcoreapp2.1\QuaverCodeChallenge.runtimeconfig.json
+C:\Users\Jerad Hobgood\Desktop\QuaverCodingChallenge\New-Hire-Coding-Challenge\QuaverCodeChallenge\QuaverCodeChallenge\bin\Debug\netcoreapp2.1\QuaverCodeChallenge.runtimeconfig.dev.json
+C:\Users\Jerad Hobgood\Desktop\QuaverCodingChallenge\New-Hire-Coding-Challenge\QuaverCodeChallenge\QuaverCodeChallenge\bin\Debug\netcoreapp2.1\QuaverCodeChallenge.dll
+C:\Users\Jerad Hobgood\Desktop\QuaverCodingChallenge\New-Hire-Coding-Challenge\QuaverCodeChallenge\QuaverCodeChallenge\bin\Debug\netcoreapp2.1\QuaverCodeChallenge.pdb
+C:\Users\Jerad Hobgood\Desktop\QuaverCodingChallenge\New-Hire-Coding-Challenge\QuaverCodeChallenge\QuaverCodeChallenge\bin\Debug\netcoreapp2.1\QuaverCodeChallenge.Views.dll
+C:\Users\Jerad Hobgood\Desktop\QuaverCodingChallenge\New-Hire-Coding-Challenge\QuaverCodeChallenge\QuaverCodeChallenge\bin\Debug\netcoreapp2.1\QuaverCodeChallenge.Views.pdb
+C:\Users\Jerad Hobgood\Desktop\QuaverCodingChallenge\New-Hire-Coding-Challenge\QuaverCodeChallenge\QuaverCodeChallenge\obj\Debug\netcoreapp2.1\QuaverCodeChallenge.csprojAssemblyReference.cache
+C:\Users\Jerad Hobgood\Desktop\QuaverCodingChallenge\New-Hire-Coding-Challenge\QuaverCodeChallenge\QuaverCodeChallenge\obj\Debug\netcoreapp2.1\QuaverCodeChallenge.csproj.CoreCompileInputs.cache
+C:\Users\Jerad Hobgood\Desktop\QuaverCodingChallenge\New-Hire-Coding-Challenge\QuaverCodeChallenge\QuaverCodeChallenge\obj\Debug\netcoreapp2.1\QuaverCodeChallenge.RazorAssemblyInfo.cache
+C:\Users\Jerad Hobgood\Desktop\QuaverCodingChallenge\New-Hire-Coding-Challenge\QuaverCodeChallenge\QuaverCodeChallenge\obj\Debug\netcoreapp2.1\QuaverCodeChallenge.RazorAssemblyInfo.cs
+C:\Users\Jerad Hobgood\Desktop\QuaverCodingChallenge\New-Hire-Coding-Challenge\QuaverCodeChallenge\QuaverCodeChallenge\obj\Debug\netcoreapp2.1\QuaverCodeChallenge.AssemblyInfoInputs.cache
+C:\Users\Jerad Hobgood\Desktop\QuaverCodingChallenge\New-Hire-Coding-Challenge\QuaverCodeChallenge\QuaverCodeChallenge\obj\Debug\netcoreapp2.1\QuaverCodeChallenge.AssemblyInfo.cs
+C:\Users\Jerad Hobgood\Desktop\QuaverCodingChallenge\New-Hire-Coding-Challenge\QuaverCodeChallenge\QuaverCodeChallenge\obj\Debug\netcoreapp2.1\QuaverCodeChallenge.TagHelpers.input.cache
+C:\Users\Jerad Hobgood\Desktop\QuaverCodingChallenge\New-Hire-Coding-Challenge\QuaverCodeChallenge\QuaverCodeChallenge\obj\Debug\netcoreapp2.1\QuaverCodeChallenge.TagHelpers.output.cache
+C:\Users\Jerad Hobgood\Desktop\QuaverCodingChallenge\New-Hire-Coding-Challenge\QuaverCodeChallenge\QuaverCodeChallenge\obj\Debug\netcoreapp2.1\QuaverCodeChallenge.RazorCoreGenerate.cache
+C:\Users\Jerad Hobgood\Desktop\QuaverCodingChallenge\New-Hire-Coding-Challenge\QuaverCodeChallenge\QuaverCodeChallenge\obj\Debug\netcoreapp2.1\Razor\Views\GitHubTopRepos.g.cshtml.cs
+C:\Users\Jerad Hobgood\Desktop\QuaverCodingChallenge\New-Hire-Coding-Challenge\QuaverCodeChallenge\QuaverCodeChallenge\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+C:\Users\Jerad Hobgood\Desktop\QuaverCodingChallenge\New-Hire-Coding-Challenge\QuaverCodeChallenge\QuaverCodeChallenge\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+C:\Users\Jerad Hobgood\Desktop\QuaverCodingChallenge\New-Hire-Coding-Challenge\QuaverCodeChallenge\QuaverCodeChallenge\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\Jerad Hobgood\Desktop\QuaverCodingChallenge\New-Hire-Coding-Challenge\QuaverCodeChallenge\QuaverCodeChallenge\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\Jerad Hobgood\Desktop\QuaverCodingChallenge\New-Hire-Coding-Challenge\QuaverCodeChallenge\QuaverCodeChallenge\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Confirm.g.cshtml.cs
+C:\Users\Jerad Hobgood\Desktop\QuaverCodingChallenge\New-Hire-Coding-Challenge\QuaverCodeChallenge\QuaverCodeChallenge\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\Jerad Hobgood\Desktop\QuaverCodingChallenge\New-Hire-Coding-Challenge\QuaverCodeChallenge\QuaverCodeChallenge\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\Jerad Hobgood\Desktop\QuaverCodingChallenge\New-Hire-Coding-Challenge\QuaverCodeChallenge\QuaverCodeChallenge\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\Jerad Hobgood\Desktop\QuaverCodingChallenge\New-Hire-Coding-Challenge\QuaverCodeChallenge\QuaverCodeChallenge\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\Jerad Hobgood\Desktop\QuaverCodingChallenge\New-Hire-Coding-Challenge\QuaverCodeChallenge\QuaverCodeChallenge\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\Jerad Hobgood\Desktop\QuaverCodingChallenge\New-Hire-Coding-Challenge\QuaverCodeChallenge\QuaverCodeChallenge\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\Jerad Hobgood\Desktop\QuaverCodingChallenge\New-Hire-Coding-Challenge\QuaverCodeChallenge\QuaverCodeChallenge\obj\Debug\netcoreapp2.1\QuaverCodeChallenge.RazorTargetAssemblyInfo.cache
+C:\Users\Jerad Hobgood\Desktop\QuaverCodingChallenge\New-Hire-Coding-Challenge\QuaverCodeChallenge\QuaverCodeChallenge\obj\Debug\netcoreapp2.1\QuaverCodeChallenge.RazorTargetAssemblyInfo.cs
+C:\Users\Jerad Hobgood\Desktop\QuaverCodingChallenge\New-Hire-Coding-Challenge\QuaverCodeChallenge\QuaverCodeChallenge\obj\Debug\netcoreapp2.1\QuaverCodeChallenge.Views.pdb
+C:\Users\Jerad Hobgood\Desktop\QuaverCodingChallenge\New-Hire-Coding-Challenge\QuaverCodeChallenge\QuaverCodeChallenge\obj\Debug\netcoreapp2.1\QuaverCodeChallenge.dll
+C:\Users\Jerad Hobgood\Desktop\QuaverCodingChallenge\New-Hire-Coding-Challenge\QuaverCodeChallenge\QuaverCodeChallenge\obj\Debug\netcoreapp2.1\QuaverCodeChallenge.pdb
+C:\Users\Jerad Hobgood\Desktop\QuaverCodingChallenge\New-Hire-Coding-Challenge\QuaverCodeChallenge\QuaverCodeChallenge\obj\Debug\netcoreapp2.1\QuaverCodeChallenge.csproj.CopyComplete
+C:\Users\shell\source\repos\Code-Test\QuaverCodeChallenge\QuaverCodeChallenge\bin\Debug\netcoreapp2.1\QuaverCodeChallenge.deps.json
+C:\Users\shell\source\repos\Code-Test\QuaverCodeChallenge\QuaverCodeChallenge\bin\Debug\netcoreapp2.1\QuaverCodeChallenge.runtimeconfig.json
+C:\Users\shell\source\repos\Code-Test\QuaverCodeChallenge\QuaverCodeChallenge\bin\Debug\netcoreapp2.1\QuaverCodeChallenge.runtimeconfig.dev.json
+C:\Users\shell\source\repos\Code-Test\QuaverCodeChallenge\QuaverCodeChallenge\bin\Debug\netcoreapp2.1\QuaverCodeChallenge.dll
+C:\Users\shell\source\repos\Code-Test\QuaverCodeChallenge\QuaverCodeChallenge\bin\Debug\netcoreapp2.1\QuaverCodeChallenge.pdb
+C:\Users\shell\source\repos\Code-Test\QuaverCodeChallenge\QuaverCodeChallenge\bin\Debug\netcoreapp2.1\QuaverCodeChallenge.Views.dll
+C:\Users\shell\source\repos\Code-Test\QuaverCodeChallenge\QuaverCodeChallenge\bin\Debug\netcoreapp2.1\QuaverCodeChallenge.Views.pdb
+C:\Users\shell\source\repos\Code-Test\QuaverCodeChallenge\QuaverCodeChallenge\obj\Debug\netcoreapp2.1\QuaverCodeChallenge.csprojAssemblyReference.cache
+C:\Users\shell\source\repos\Code-Test\QuaverCodeChallenge\QuaverCodeChallenge\obj\Debug\netcoreapp2.1\QuaverCodeChallenge.csproj.CoreCompileInputs.cache
+C:\Users\shell\source\repos\Code-Test\QuaverCodeChallenge\QuaverCodeChallenge\obj\Debug\netcoreapp2.1\QuaverCodeChallenge.RazorAssemblyInfo.cache
+C:\Users\shell\source\repos\Code-Test\QuaverCodeChallenge\QuaverCodeChallenge\obj\Debug\netcoreapp2.1\QuaverCodeChallenge.RazorAssemblyInfo.cs
+C:\Users\shell\source\repos\Code-Test\QuaverCodeChallenge\QuaverCodeChallenge\obj\Debug\netcoreapp2.1\QuaverCodeChallenge.AssemblyInfoInputs.cache
+C:\Users\shell\source\repos\Code-Test\QuaverCodeChallenge\QuaverCodeChallenge\obj\Debug\netcoreapp2.1\QuaverCodeChallenge.AssemblyInfo.cs
+C:\Users\shell\source\repos\Code-Test\QuaverCodeChallenge\QuaverCodeChallenge\obj\Debug\netcoreapp2.1\QuaverCodeChallenge.TagHelpers.input.cache
+C:\Users\shell\source\repos\Code-Test\QuaverCodeChallenge\QuaverCodeChallenge\obj\Debug\netcoreapp2.1\QuaverCodeChallenge.TagHelpers.output.cache
+C:\Users\shell\source\repos\Code-Test\QuaverCodeChallenge\QuaverCodeChallenge\obj\Debug\netcoreapp2.1\QuaverCodeChallenge.RazorCoreGenerate.cache
+C:\Users\shell\source\repos\Code-Test\QuaverCodeChallenge\QuaverCodeChallenge\obj\Debug\netcoreapp2.1\Razor\Views\GitHubTopRepos.g.cshtml.cs
+C:\Users\shell\source\repos\Code-Test\QuaverCodeChallenge\QuaverCodeChallenge\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+C:\Users\shell\source\repos\Code-Test\QuaverCodeChallenge\QuaverCodeChallenge\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+C:\Users\shell\source\repos\Code-Test\QuaverCodeChallenge\QuaverCodeChallenge\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\shell\source\repos\Code-Test\QuaverCodeChallenge\QuaverCodeChallenge\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\shell\source\repos\Code-Test\QuaverCodeChallenge\QuaverCodeChallenge\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Confirm.g.cshtml.cs
+C:\Users\shell\source\repos\Code-Test\QuaverCodeChallenge\QuaverCodeChallenge\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\shell\source\repos\Code-Test\QuaverCodeChallenge\QuaverCodeChallenge\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\shell\source\repos\Code-Test\QuaverCodeChallenge\QuaverCodeChallenge\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\shell\source\repos\Code-Test\QuaverCodeChallenge\QuaverCodeChallenge\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\shell\source\repos\Code-Test\QuaverCodeChallenge\QuaverCodeChallenge\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\shell\source\repos\Code-Test\QuaverCodeChallenge\QuaverCodeChallenge\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\shell\source\repos\Code-Test\QuaverCodeChallenge\QuaverCodeChallenge\obj\Debug\netcoreapp2.1\QuaverCodeChallenge.RazorTargetAssemblyInfo.cache
+C:\Users\shell\source\repos\Code-Test\QuaverCodeChallenge\QuaverCodeChallenge\obj\Debug\netcoreapp2.1\QuaverCodeChallenge.RazorTargetAssemblyInfo.cs
+C:\Users\shell\source\repos\Code-Test\QuaverCodeChallenge\QuaverCodeChallenge\obj\Debug\netcoreapp2.1\QuaverCodeChallenge.Views.pdb
+C:\Users\shell\source\repos\Code-Test\QuaverCodeChallenge\QuaverCodeChallenge\obj\Debug\netcoreapp2.1\QuaverCodeChallenge.dll
+C:\Users\shell\source\repos\Code-Test\QuaverCodeChallenge\QuaverCodeChallenge\obj\Debug\netcoreapp2.1\QuaverCodeChallenge.pdb
+C:\Users\shell\source\repos\Code-Test\QuaverCodeChallenge\QuaverCodeChallenge\obj\Debug\netcoreapp2.1\QuaverCodeChallenge.csproj.CopyComplete
