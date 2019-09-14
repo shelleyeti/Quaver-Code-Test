@@ -55,9 +55,11 @@ namespace QuaverCodeChallenge.Servcies
             {
                 foreach (var i in itemsToWrite)
                 {
-                    if (!currentList.Contains(i))
+                    var encrypt = encryption.EnryptString(i).ToUpper();
+
+                    if (!currentList.Contains(encrypt))
                     {
-                        writer.WriteLine(encryption.EnryptString(i));
+                        writer.WriteLine(encrypt);
                     }
                 }
                 writer.Close();
