@@ -31,7 +31,7 @@ namespace QuaverCodeChallenge.Servcies
             JObject json = JObject.Parse(content);
 
             // Loop though items looking for URL's and add to a list
-            var jsonItemList = json["item"];
+            var jsonItemList = json["items"];
             foreach (var i in jsonItemList)
             {
                 repoNames.Add((i["owner"]["url"]).ToString().ToUpper());
@@ -55,9 +55,11 @@ namespace QuaverCodeChallenge.Servcies
             {
                 foreach (var i in itemsToWrite)
                 {
-                    if (!currentList.Contains(i))
+                    var encrypt = encryption.EnryptString(i).ToUpper();
+
+                    if (!currentList.Contains(encrypt))
                     {
-                        writer.WriteLine(encryption.EnryptString(i));
+                        writer.WriteLine(encrypt);
                     }
                 }
                 writer.Close();
@@ -76,7 +78,7 @@ namespace QuaverCodeChallenge.Servcies
                 IList<string> repoNames = new List<string>();
                 while ((ln = file.ReadLine()) != null)
                 {
-                    repoNames.Add(ln.ToLower());
+                    repoNames.Add(ln.ToUpper());
                     counter++;
                 }
                 file.Close();
